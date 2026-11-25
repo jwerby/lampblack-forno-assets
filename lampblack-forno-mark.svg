@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Lampblack Forno mark">
+  <title>Lampblack Forno</title>
+
+  <g id="monogram">
+    <rect x="16.000" y="16.000" width="224.000" height="224.000" rx="17.920" fill="#1C1410"/>
+    <rect x="33.920" y="33.920" width="188.160" height="188.160" rx="10.752" fill="none" stroke="#B08A4A" stroke-width="5.600"/>
+    <rect x="80.960" y="154.880" width="94.080" height="15.680" rx="7.840" fill="#B33A22"/>
+    <rect x="154.880" y="65.280" width="40.320" height="10.080" rx="5.040" fill="#B08A4A"/>
+  </g>
+</svg>
